@@ -21,6 +21,28 @@
     "difficulty": "Medium",
     "tags": ["NPV", "DCF", "Project Evaluation"]
   },
+ {
+    "id": "q004",
+    "title": "Futures : A company wants to hedge against a price drop...",
+    "url": "https://www.ismahelps.com/practice-problems/blog-post-title-one-brwpm-n288p-nn96r-s2zxs",
+    "course": "Options",
+    "topic": "Introduction to Derivatives",
+    "subtopic": "Futures",
+    "questionType": "MCQs",
+    "difficulty": "Medium",
+    "tags": ["NPV", "DCF", "Project Evaluation"]
+  },
+ {
+    "id": "q005",
+    "title": "Net Present Value: A company plans to finance a project costing $1,000,000...",
+    "url": "https://www.ismahelps.com/practice-problems/blog-post-title-one-brwpm-n288p-nn96r",
+    "course": "Theories of Finance",
+    "topic": "Capital Budgeting",
+    "subtopic": "Net Present Value",
+    "questionType": "Short Answer",
+    "difficulty": "Medium",
+    "tags": ["NPV", "DCF", "Project Evaluation"]
+  },
   {
     "id": "q003",
     "title": "Coupon Payments: Assume that you wish to purchase a 20-year bond that...",
