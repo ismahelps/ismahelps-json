@@ -1,0 +1,35 @@
+[
+  {
+    "id": "q001",
+    "title": "IRR: When the cost of capital is less than IRR for...",
+    "url": "https://www.ismahelps.com/practice-problems/blog-post-title-one-brwpm-n288p",
+    "course": "Intro to Finance",
+    "topic": "Capital Budgeting",
+    "subtopic": "IRR",
+    "questionType": "Short answer",
+    "difficulty": "Medium",
+    "tags": ["IRR", "Investment Decision"]
+  },
+  {
+    "id": "q002",
+    "title": "NPV Approach: The net present value (NPV) approach is superior to...",
+    "url": "https://www.ismahelps.com/practice-problems/blog-post-title-one-brwpm-yjcbm",
+    "course": "Cases in Finance",
+    "topic": "Capital Budgeting",
+    "subtopic": "NPV Approach",
+    "questionType": "True or false",
+    "difficulty": "Medium",
+    "tags": ["NPV", "DCF", "Project Evaluation"]
+  },
+  {
+    "id": "q003",
+    "title": "Coupon Payments: Assume that you wish to purchase a 20-year bond that...",
+    "url": "https://www.ismahelps.com/practice-problems/blog-post-title-one-brwpm",
+    "course": "Intro to Finance",
+    "topic": "Bond Valuation",
+    "subtopic": "Coupon Payments",
+    "questionType": "Multiple choice",
+    "difficulty": "Easy",
+    "tags": ["Bond", "Coupon", "Fixed Income"]
+  }
+]
